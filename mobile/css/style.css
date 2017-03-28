@@ -1,0 +1,1313 @@
+html, body
+{
+  margin: 0;
+  width: 100%;
+  color: black;
+  font-size:100%;
+  font-family: Avenir !important;
+  font-weight: medium !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+#logo-header
+{
+  height: 50px !important;
+  width: auto !important;
+  margin-top: -10px;
+}
+
+a .modifier-btn
+{
+  color: black !important;
+}
+
+.modifier-btn
+{
+  border-color: red !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+
+.profil-input, textarea
+{
+  line-height: 30px !important;
+      margin: 0 0 15px 0;
+  padding: 5px 5px !important;
+  border: 1px solid #9e9e9e !important;
+border-bottom: 0px solid #9e9e9e;
+font-size: 16px !important;
+resize:none;
+height: 40px !important;
+border-radius: 5px !important;
+}
+
+.profil-input:hover, textarea:hover
+{
+  outline: none !important;
+  border:3px solid red !important;
+  box-shadow: 0 0 10px #719ECE !important;
+
+}
+
+.thumb
+{
+  width: auto !important;
+}
+
+.footer-elem h1
+{
+  color: red !important;
+}
+
+.footer-header
+{
+  color: black !important;
+  font-size: 26px;
+}
+
+.footer-elem .active, .footer-header .active
+{
+  font-weight: bold !important;
+}
+
+
+.fb-like
+{
+  margin-left: 25px !important;
+  margin-top: 20px !important;
+}
+
+.padding
+{
+  padding-left: 35px !important;
+  padding-right: 35px !important;
+
+}
+
+.padding-2
+{
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.input
+{
+  padding: 12px 12px !important;
+  border-radius: 10px;
+  border-color: black !important;
+}
+
+.navbar-inverse .navbar-nav li{
+  background-color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.navbar-inverse .navbar-nav li:hover, .navbar-inverse .navbar-nav li .border{
+  	background-color: rgba(0, 0, 0, 0.6) !important;
+    color: white !important;
+}
+
+.navbar-inverse .navbar-nav li .border a{
+  	background-color: rgba(0, 0, 0, 0.6) !important;
+    color: white !important;
+}
+
+
+
+
+
+.item img
+{
+  max-width: 350px;
+  max-height: 350px;
+}
+
+.text-under-img
+{
+  padding: 25px;
+margin-right: 10px;
+  font-size: 18px;
+}
+
+.right
+{
+  float: right;
+}
+
+.tored : hover
+{
+  background-color: red;
+}
+
+a
+{
+  text-decoration: none !important;
+}
+
+.img-holder img
+{
+  min-height: 360px;
+  max-height: 360px;
+  width: 100%;
+}
+
+.img-holder
+{
+  padding: 0px !important;
+}
+
+.left
+{
+float: left;
+}
+
+.nomargin
+{
+  margin-top: 0px !important;
+}
+
+.messenger
+{
+    margin-top: 75px;
+    height: 80vh;
+}
+
+.rdv
+{
+  height: 260px;
+  line-height: 260px;
+  font-size: 20px;
+}
+
+.block-content
+{
+}
+
+.pad
+{
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+
+}
+
+.light
+{
+  font-weight: normal !important;
+  padding: 10px;
+}
+
+.block-content img
+{
+  float: right;
+}
+
+input .red-input
+{
+  padding: 12px 12px !important;
+  position: absolute;
+    display: inline;
+    width: 30%;
+    padding: 12px 12px;
+    margin-left: 27%;
+    border: 2px solid #ff1a1a !important;
+    border-radius: 4px !important;
+    font-size: 20px !important;
+}
+
+.block-img
+{
+  height: 300px;
+  margin-right: : -20px !important;
+}
+
+.rdv
+{
+  line-height: 200px !important;
+}
+
+.info-content
+{
+  border-style: solid;
+  border-width: 3px;
+  height: 200px;
+
+  color: #595959 !important;
+background-color: #f2f2f2;
+  line-height: 30px;
+  border-radius: 3px 3px 3px 3px;
+border: 1px solid #4d4d4d;
+}
+
+
+
+
+.alpha
+{
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.top
+{
+  position: absolute;
+  z-index: 100;
+}
+
+a .info-link:hover
+{
+	background-color: blue !important;
+}
+.info-btnx2:hover
+{
+  background-color: #bdbdbd;
+
+}
+
+
+.info-btn:hover
+{
+  background-color: #bdbdbd;
+
+}
+
+.md-emploi:hover
+{
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.md-emploi
+{
+  color: white !important;
+  background-color: rgba(255, 255, 255, 0.5);
+  line-height: 50px;
+  padding: 10px;
+  height: 25vh;
+  border-radius: 3px 3px 3px 3px;
+border: 1px solid #4d4d4d;
+}
+
+.info-btnx2
+{
+      color: #595959 !important;
+    background-color: #f2f2f2;      height: 50px;
+      line-height: 50px;
+      font-size: 18px;
+      padding-left: 5px;
+      padding-right: 5px;
+
+      border-radius: 3px 3px 3px 3px;
+    border: 1px solid #4d4d4d;}
+
+.info-btn
+{
+      color: #595959 !important;
+    background-color: #f2f2f2;      height: 30px;
+      line-height: 30px;
+      border-radius: 3px 3px 3px 3px;
+    border: 1px solid #4d4d4d;}
+
+.info-link
+{
+  color: black !important;
+}
+
+.infos-perso
+{
+  padding-left: 15px !important;
+  font-size: 20px;
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+a .logo
+{
+  font-size: 18px !important;
+}
+
+.logo, button
+{
+  font-family: Avenir !important;
+  font-weight: medium !important;
+}
+
+.logo
+{
+  width: 70%;
+
+}
+
+.white-shadow
+{
+  text-shadow: 2px 2px 4px #000000 !important;
+
+}
+
+.white-font
+{
+color: white;
+text-shadow: 2px 2px 4px #000000;
+
+}
+
+.dark-grey-font
+{
+  color: black !important;
+
+}
+
+.connexion h2, p
+{
+  color: #595959;
+}
+
+.inscription h2, p
+{
+  color: #595959;
+}
+
+
+
+.connexion, .inscription
+{
+  background-color :#f2f2f2 !important;
+  margin-top: 10vh;
+  padding-bottom: 25px;
+}
+
+.1000users
+{
+  text-shadow: 0 0 2px #fff;
+
+}
+
+a{
+  text-shadow: none !important;
+}
+
+.bouton
+{
+  margin-bottom: 5px !important;
+}
+
+.bienvenue-bg
+{
+  background :url('../img/backgrounds/laptop2.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.main-bg
+{
+  background :url('../img/backgrounds/bg_connexion_deconnexion.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+label
+{
+  font-family: Avenir;
+  font-weight: medium;
+  color: black;
+}
+
+a, .row a
+{
+}
+
+a : hover
+{
+  color: black;
+}
+
+
+.loginPage
+{
+  min-width: 100%;
+  height: 80vh;
+}
+
+.login-container{
+  margin-top: 20vh;
+}
+
+.faceblue
+{
+  background-color: #3B5998;
+}
+
+.yahoo
+{
+  background-color: #660099;
+}
+
+.linkedinBlue
+{
+  background-color: #007bb5;
+}
+
+.invite a{
+  color: white !important;
+  padding-right: 10px !important;
+  font-size: 12px;
+}
+
+.invite
+{
+  padding: 10px;
+  font-size: 1.2em;
+  border-style: solid;
+  border-color: transparent !important;
+      border-width: 1px;
+    }
+
+.border-btn
+{
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  color: black !important;
+  background-color: #d3d3d3;
+  font-size: 20px;
+
+}
+
+.full-width
+{
+  width: 100% !important ;
+}
+
+.btn-pro
+{
+  position: absolute;
+    bottom: 0;
+  }
+
+.black-font
+{
+  color: black !important;
+}
+
+li .black-border
+{
+  border-style: solid !important;
+  border-color: black !important;
+}
+
+.grey-font
+{
+  color: grey !important;
+
+}
+
+.nobreak
+{
+  white-space: nowrap;
+}
+
+.row-nomargin
+{
+  margin:0 !important;
+}
+
+span, h1, h2, h3, a
+{
+font-family: Myriad pro;;
+}
+@media only screen and (max-width: 320px) {
+
+   body { font-size: 2em; }
+}
+
+.carousel-control
+{
+  background: transparent !important;
+}
+
+.content
+{
+  min-width: 100% !important;
+  overflow: hidden !important;
+  margin: 0;
+}
+
+.title
+{
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.category
+{
+  border: 2px solid white;
+  height: 170px;
+}
+
+.margin
+{
+  margin-top: 8vh;
+
+}
+
+.categories
+{
+}
+
+.subtitle
+{
+  font-size: 1.5em;
+}
+
+.page-90
+{
+  min-width: 100%;
+  height: 90vh;
+  background-color: grey;
+}
+
+.form-control, .btn
+{
+}
+
+.ui-autocomplete {
+            max-height: 200px;
+            width: 100;
+            overflow-y: auto;
+            /* prevent horizontal scrollbar */
+            overflow-x: hidden;
+            /* add padding to account for vertical scrollbar */
+            padding-right: 20px;
+    }
+    /* IE 6 doesn't support max-height
+     * we use height instead, but this forces the menu to always be this tall
+     */
+    * html .ui-autocomplete {
+        height: 100px;
+    }
+
+.black-text
+{
+  color: black !important;
+  padding: 20px;
+}
+
+input, button
+{
+  max-width: 50% !important;
+}
+.Grey
+{
+  font-color: grey;
+  background-color: #D3D3D3 !important;
+
+}
+
+.Quote h2
+{
+  color: red;
+  font-family: Avenir;
+  font-weight: medium;
+}
+
+.btn
+{
+  color: white !important;
+
+}
+
+.a
+{
+  color: red !important;
+}
+
+.red-font
+{
+  color: red;
+}
+
+.desc
+{
+  font-size: 1.5em;
+}
+
+.little-desc
+{
+  font-size: 1.2em;
+}
+
+.big-desc
+{
+  font-size: 3em;
+}
+
+.medium-desc
+{
+  font-size: 2em;
+
+}
+
+.count
+{
+  font-size: 10em;
+}
+
+.center-text
+{
+  text-align: center;
+}
+
+.desc
+{
+  font-size: 1em;
+  color: white;
+}
+
+.black-font
+{
+  color: black;
+}
+
+
+.inner-center
+{
+  height: 50vh;
+  width: 50%;
+  /* Set the margin-left and margin-right automatically set */
+  margin: auto auto;
+}
+
+.hidden
+{
+  opacity:0;
+}
+.flex-item {
+
+  padding: 10px;
+  width: 100px;
+  font-size: 1em;
+}
+
+a
+{
+  color: red !important;
+  box-shadow: none !important;
+}
+
+.navbar-inverse .navbar-brand a
+{
+  color: red;
+}
+
+.red
+{
+  background-color: red;
+  color: white !important;
+}
+
+.navbar-toggle:hover, .navbar-toggle
+{
+  background: transparent !important;
+}
+
+.navbar-toggle
+{
+margin-top: 15px !important;
+  border: none !important;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar
+{
+  background-color: red !important;
+  border-color: red !important;
+}
+
+.no-bg
+{
+  background: transparent !important;
+  border: none !important;
+}
+
+.logo-font
+{
+  color: red;
+  font-family: Avenir;
+  font-weight: medium;
+}
+
+.center
+{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.Logo
+{
+  height: 100%;
+}
+
+
+#select
+{
+  max-width: 25%;
+}
+.notify
+{
+  background-color: white;
+
+}
+
+.half
+{
+  flex: 2;
+  width: 50%;
+  background-color: red;
+}
+
+.social
+{
+  margin-top: 20px;
+}
+
+.footer
+{
+  height: 30vh !important;
+}
+
+.Header, .Footer
+{
+  flex: 1;
+  width: 100%;
+}
+.page
+{
+  flex: 1;
+}
+
+.page-phone
+{
+  height: 70vh !important;
+  padding-top: 80px;
+}
+
+.title
+{
+  color: red;
+}
+h2
+{
+  font-size: 2em;
+
+  color: black;
+}
+
+
+.Quote h2
+{
+  padding-top: 50px;
+  color: black;
+  font-size: 1.5em;
+}
+
+
+.Quote
+{
+  text-align: center;
+  padding: 30px;
+  flex : 2;
+  width: 40%;
+  float: right;
+}
+
+.page
+{
+    min-width: 100%;
+    min-height: 50vh;
+    height: auto;
+    margin-top: 10vh;
+}
+
+.btn
+{
+  color: white;
+}
+
+html, body
+{
+  margin: 0;
+  width: 100%;
+  color: black;
+  font-size:100%;
+  font-family: Avenir;
+  font-weight: medium;
+}
+
+
+
+.invit
+{
+  height: 360px;
+  margin-bottom: 25px;
+}
+
+.footer h2
+{
+  font-weight: bold !important;
+  color : white !important;
+}
+
+.footer a
+{
+  color: white !important;
+}
+
+.footer-elem
+{
+  padding: 25px;
+}
+.footer
+{
+  background-color: grey;
+  color: white;
+  height: 20vh;
+}
+
+.footer-title
+{
+  font-weight: bold;
+  font-size: 18px !important;
+  color: red;
+}
+
+hr, span, li, a, h1, h2, h3, h4
+{
+  font-family: Avenir !important;
+  font-weight: medium !important;
+}
+
+
+.Header ul li a{
+  color: red;
+}
+
+
+.cover-photo-content
+{
+  height: 250px;
+margin-top: 55px;
+width: 100%;
+
+}
+
+
+
+.cover-photo
+{
+height: 250px;
+width: auto;
+overflow: hidden;
+ /* Preserve aspet ratio */
+
+}
+
+.text-left
+{
+  text-align: left;
+}
+
+.inline
+{
+  display: inline;
+}
+
+.gold
+{
+  color: #D4AF37;
+}
+
+
+.profil-photo
+{
+
+  width: 150px;
+  height: 150px;
+  max-height: 150px;
+  border-radius: 150px;
+  border: 2px solid grey;
+  overflow: hidden;
+  margin-top: -250px;
+  background-color: white !important;
+}
+
+.profile_picture
+{
+    margin-top: 5px;
+    height: 50px;
+    width: 50px;
+}
+.profile_img
+{
+
+  max-height: 50px !important;
+  max-width: 50px;
+}
+
+
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+.profil-photo
+{
+
+  width: 150px;
+  height: 150px;
+  max-height: 150px;
+  border-radius: 150px;
+  background-color: white;
+  border: 2px solid grey;
+  overflow: hidden;
+  margin-top: -100px;
+  background-size: contain !important;
+}
+
+
+@media only screen and (max-width: 320px) {
+
+   body { font-size: 2em; }
+}
+
+.navbar-static-top
+{
+  background-color: transparent;
+  border-color: transparent;
+  border: 1px transparent;
+  font-family: Avenir;
+  font-weight: medium;
+}
+
+.logo-demande
+{
+  height: 60px;
+  border-radius: 30px;
+}
+
+.nbr
+{
+  font-size: 5em;
+}
+
+.bottom
+{
+  position: relative !important;
+  bottom: 0 !important;
+  left: auto;
+}
+
+.left
+{
+  float: left;
+}
+
+.block-img img
+{
+  height: 100%;
+  width: auto;
+  float:right;
+
+}
+
+img
+{
+  max-width: 100%;
+  height: auto;
+}
+
+.prof-pro
+{
+  border-radius: 7px !important;
+}
+
+.Title
+{
+  margin-top: 20vh;
+
+  font-weight: bold;
+}
+
+.messenger-border
+{
+  border-style: solid;
+  border-width: 1px;
+}
+
+.border
+{
+
+  text-decoration: none !important;
+  	color: white;
+
+}
+
+.bg-rdv
+{
+  background: url(../img/rendez_vous.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 50vh;
+  padding-top: 20vh;
+  margin-top: 10vh;
+  font-size: 2em;
+}
+
+.bg-compteur
+{
+  background: url(../img/bg_compteur.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 50vh;
+  padding-top: 5vh;
+  margin-top: 10vh;
+  font-size: 2em;
+
+}
+
+.bg-ref
+{
+  background: url(../img/devenez_professionnel_bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 50vh;
+  padding-top: 20vh;
+  margin-top: 10vh;
+  font-size: 2em;
+}
+
+.bg-rec
+{
+  background: url(../img/bg_recommandez.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 50vh;
+  padding-top: 20vh;
+  margin-top: 10vh;
+  font-size: 2em;
+}
+
+.margin-top
+{
+  margin-top: 10vh;
+}
+
+.bottom
+{
+  background: rgba(0, 0, 0, 0.8);
+  height: 11vh;
+  padding-top: 10px;
+margin-top: 13vh;
+
+}
+
+.creer-profil
+{
+  font-family: "Myriad Pro";
+  font-size: 14px;
+  color: white !important;
+  font-weight: bold  !important;
+  background-color: #ff3333  !important;
+  padding: 5px 10px 5px 10px  !important;
+  text-decoration: none  !important;
+  border-radius: 2px  !important;
+  box-shadow: 0px 1px black  !important;
+  margin-bottom: 10px !important;
+}
+
+.devenez-pro-main
+{
+  background: url(../img/devenez_professionnel_bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 65vh;
+}
+
+.rdv-main
+{
+  background: url(../img/rendez_vous.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 65vh;
+}
+
+.glyphicon {
+   font-family:'Glyphicons Halflings' !important;
+   // more css comes along here
+}
+
+.recommandez-main
+{
+  background: url(../img/bg_recommandez.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 70vh;
+}
+
+.rec-link
+{
+  border:1px solid red;
+
+}
+
+.rec-img
+{
+  height: 50px !important;
+  width: auto !important;
+}
+
+.main
+{
+  background: url(../img/bg.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.launch
+{
+  background: url(../img/image-lancement.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.margin-top
+{
+  font-size: 30px;
+}
+
+
+
+
+
+.navbar-nav > li
+{
+  color: #9B59B6;
+  font-family: Avenir;
+  font-weight: medium;
+}
+
+#logo
+{
+  margin-top: -10px;
+}
+
+.a
+{
+  color: red !important;
+}
+
+
+
+.color-default
+{
+  background-color :#f2f2f2 !important;
+}
+
+.navbar-fixed-top{
+  background: none;
+  box-shadow: none;
+}
+
+
+nav ul li a
+{
+  color: #b3b3b3 !important;
+}
+
+nav ul li a:hover
+{
+  color: white !important;
+}
+
+
+nav ul li
+{
+  height: 40px !important;
+}
+
+nav
+{
+  margin: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  z-index: 10000;
+  box-shadow: none !important;
+}
+
+.content_2 {
+  padding: 0 50px;
+  font-weight: 200; }
+  .content_2 h1 {
+    color: grey !important;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Myriad Pro","FrutigerLT Black", sans-serif;
+    padding: 10px 0 25px 0; }
+  .content_2 strong {
+    font-weight: bold; }
+  .content_2 em {
+    font-style: italic; }
+  .content_2 .bloc {
+
+    text-align: center;
+    color: grey !important;
+    margin-right: 30px; }
+      .bloc strong {
+      font-size: 30px;
+      font-weight: bold;
+      color: grey !important;
+      margin-bottom: 15px; }
+  .content_2 .last {
+    margin-right: 0px; }
+  .content_2 .numbers {
+    overflow: hidden;
+    *zoom: 1;
+    padding: 40px 0; }
+
+    .compt
+    {
+      margin-top: 20vh;
+    }
+
+.white
+{
+  color: white !important;
+}
+
+.black-font a
+{
+  color: black !important;
+}
